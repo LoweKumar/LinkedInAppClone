@@ -18,7 +18,7 @@ public class PostLike
     private Long id;
 
     @Column(nullable = false)
-    private String postId;
+    private Long postId;
 
     @Column(nullable = false)
     private Long userId;
