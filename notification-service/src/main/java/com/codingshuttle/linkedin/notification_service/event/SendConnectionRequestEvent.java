@@ -1,4 +1,4 @@
-package com.codingshuttle.linkedin.connections_service.event;
+package com.codingshuttle.linkedin.notification_service.event;
 
 import lombok.Builder;
 import lombok.Data;
